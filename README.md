@@ -1,4 +1,4 @@
-# TechFrog.AI
+# TechFrog.SI — TechFrog.AI mirror
 
 Marketing website for Tech Frog’s custom offline AI systems for homes and businesses.
 
@@ -18,12 +18,14 @@ Open http://127.0.0.1:4173.
 - `styles.css`: responsive layouts, typography, aqua accent, logo framing, and reduced-motion support.
 - `script.js`: mobile navigation and email copying.
 - `assets/`: owner-supplied TechFrog.AI logo and self-hosted fonts.
-- `CNAME`: existing `techfrog.ai` custom-domain declaration.
+- `CNAME`: `techfrog.si` custom-domain declaration.
 - `.nojekyll`: existing marker for direct static publication.
 
 ## Publishing
 
-This repository uses GitHub Pages with `main` and the repository root. Keep the existing `CNAME` and `.nojekyll` files when updating the website. Public metadata uses `https://techfrog.ai/`.
+This repository uses GitHub Pages with `main` and the repository root. Keep the existing `CNAME` and `.nojekyll` files when updating the website. The page, styles, JavaScript, fonts, logo, inquiry links, and commercial terms are identical to https://github.com/techfrogconsulting/techfrog-ai. The canonical and social URLs remain https://techfrog.ai/ as the primary version.
+
+To update the mirror, copy the current website files from the source repository, retain this repository’s `CNAME`, and push to `main`.
 
 ## Contact and engagement
 
